@@ -2,8 +2,11 @@
 
 A comprehensive business intelligence dashboard built to analyze and visualize e-commerce sales performance across multiple dimensions including time, geography, product categories, and customer segments.
 
-<img width="1334" height="714" alt="لقطة شاشة 2025-10-08 174301" src="https://github.com/user-attachments/assets/12db9ce7-3ff9-4a82-86a6-2bc3c36ddff6" />
-<img width="1291" height="726" alt="لقطة شاشة 2025-10-08 174344" src="https://github.com/user-attachments/assets/4aa9676c-9c95-4208-93a3-ab37f3ba91ed" />
+<img width="1114" height="608" alt="image" src="https://github.com/user-attachments/assets/caa4b757-f719-41a2-80bb-b2c5dda8b65b" />
+
+## geographic sales
+<img width="1112" height="613" alt="image" src="https://github.com/user-attachments/assets/f8ce45fb-0493-4b93-b626-42741f7ad92e" />
+
 
 
 ## 📊 Overview
