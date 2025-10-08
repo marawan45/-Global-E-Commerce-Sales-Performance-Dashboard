@@ -160,8 +160,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+marwan eslam ouda
 
 ## 🙏 Acknowledgments
 
@@ -169,10 +168,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Microsoft Azure for mapping capabilities
 - The Python data science community
 
-## 📧 Contact
-
-For questions or feedback, please open an issue or contact [your.email@example.com](mailto:your.email@example.com)
-
----
-
-⭐ **Star this repository if you find it helpful!**
